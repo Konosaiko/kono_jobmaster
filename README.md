@@ -12,7 +12,8 @@ Add new locations in config.lua and items related. The script allows you to crea
 - Custom blip with setable coords and name
 - Storage Position
 - Harvest position, customizable item, animation and notification
-- Treatment position, requires harvested item, customizable item processed, animation and notification 
+- Treatment position, requires harvested item, customizable item processed, animation and notification
+- Job Handler
 
 
 #### Dependencies
