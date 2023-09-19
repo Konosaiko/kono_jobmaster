@@ -1,4 +1,9 @@
 # kono_jobmaster
+### WORK STILL IN PROGRESS 
+- Translations
+- Add craftlocation directly in config
+
+
 #### Description
 Job script for RedM servers using the [VORP](https://github.com/VORPCORE) framework.
 Add new locations in config.lua and items related. The script allows you to create simple job with harvest, treatment and storage. Fully customizable, you can add a craft locations and ped to sell with vorp_crafting and vorp_stores.
