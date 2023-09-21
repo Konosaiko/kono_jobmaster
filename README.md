@@ -6,7 +6,7 @@
 
 #### Description
 Job script for RedM servers using the [VORP](https://github.com/VORPCORE) framework.
-Add new locations in config.lua and items related. The script allows you to create simple job with harvest, treatment and storage. Fully customizable, you can add a craft locations and ped to sell with vorp_crafting and vorp_stores.
+Add new locations in config.lua and items related. The script allows you to create simple job with harvest, treatment and storage. Fully customizable, you can add a craft location and ped to sell with vorp_crafting and vorp_stores.
 
 #### Features
 - Custom blip with setable coords and name
