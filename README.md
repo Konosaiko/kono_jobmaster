@@ -14,6 +14,7 @@ Add new locations in config.lua and items related. The script allows you to crea
 - Harvest position, customizable item, animation and notification
 - Treatment position, requires harvested item, customizable item processed, animation and notification
 - Job Handler
+- Add animations with vorp_animations 
 
 
 #### Dependencies
@@ -21,6 +22,7 @@ Add new locations in config.lua and items related. The script allows you to crea
 - [vorp_inventory](https://github.com/VORPCORE/vorp_inventory-lua)
 - [vorp_crafting](https://github.com/VORPCORE/vorp_crafting)
 - [vorp_stores](https://github.com/VORPCORE/vorp_stores-lua)
+- [vorp_animations](https://github.com/VORPCORE/vorp_animations)
 
 
 #### Installation
